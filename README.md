@@ -1,4 +1,4 @@
-# SLAP
+# HSGO
 The MRI file IDs used in the experiment are stored in `#{dataset_name}/raw_tables/#{dataset_name}_baseline.csv`. 
 To obtain the raw data in this experiment, please:
 1. Apply for each of the following datasets: ADNI, AIBL, ANMerge, NACC, OASIS3, OASIS4.
